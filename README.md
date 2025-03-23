@@ -1,2 +1,3 @@
 # tsatoka
-wasm - htmx - alpineJs
+
+wasm - htmx - alpineJs - handlebarJs
